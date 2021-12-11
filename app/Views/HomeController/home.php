@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+	<style>
+	.background-waves{
+		background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' standalone='no'%3F%3E%3Csvg xmlns:xlink='http://www.w3.org/1999/xlink' id='wave' style='transform:rotate(0deg)%3B transition: 0.3s' viewBox='0 0 1440 490' version='1.1' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='sw-gradient-0' x1='0' x2='0' y1='1' y2='0'%3E%3Cstop stop-color='rgba(10.773  130.232  24.601  1)' offset='0%25'/%3E%3Cstop stop-color='rgba(7.133  11.655  223.58  1)' offset='100%25'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath style='transform:translate(0  0px)%3B opacity:1' fill='url(%23sw-gradient-0)' d='M0 245L80 220.5C160 196 320 147 480 171.5C640 196 800 294 960 310.3C1120 327 1280 261 1440 220.5C1600 180 1760 163 1920 204.2C2080 245 2240 343 2400 375.7C2560 408 2720 376 2880 359.3C3040 343 3200 343 3360 285.8C3520 229 3680 114 3840 65.3C4000 16 4160 33 4320 106.2C4480 180 4640 310 4800 318.5C4960 327 5120 212 5280 179.7C5440 147 5600 196 5760 236.8C5920 278 6080 310 6240 294C6400 278 6560 212 6720 196C6880 180 7040 212 7200 212.3C7360 212 7520 180 7680 212.3C7840 245 8000 343 8160 343C8320 343 8480 245 8640 187.8C8800 131 8960 114 9120 89.8C9280 65 9440 33 9600 32.7C9760 33 9920 65 10080 65.3C10240 65 10400 33 10560 32.7C10720 33 10880 65 11040 106.2C11200 147 11360 196 11440 220.5L11520 245L11520 490L11440 490C11360 490 11200 490 11040 490C10880 490 10720 490 10560 490C10400 490 10240 490 10080 490C9920 490 9760 490 9600 490C9440 490 9280 490 9120 490C8960 490 8800 490 8640 490C8480 490 8320 490 8160 490C8000 490 7840 490 7680 490C7520 490 7360 490 7200 490C7040 490 6880 490 6720 490C6560 490 6400 490 6240 490C6080 490 5920 490 5760 490C5600 490 5440 490 5280 490C5120 490 4960 490 4800 490C4640 490 4480 490 4320 490C4160 490 4000 490 3840 490C3680 490 3520 490 3360 490C3200 490 3040 490 2880 490C2720 490 2560 490 2400 490C2240 490 2080 490 1920 490C1760 490 1600 490 1440 490C1280 490 1120 490 960 490C800 490 640 490 480 490C320 490 160 490 80 490L0 490Z'/%3E%3Cdefs%3E%3ClinearGradient id='sw-gradient-1' x1='0' x2='0' y1='1' y2='0'%3E%3Cstop stop-color='rgba(47.047  221.304  203.002  1)' offset='0%25'/%3E%3Cstop stop-color='rgba(255  179  11  1)' offset='100%25'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath style='transform:translate(0  50px)%3B opacity:0.9' fill='url(%23sw-gradient-1)' d='M0 392L80 367.5C160 343 320 294 480 294C640 294 800 343 960 326.7C1120 310 1280 229 1440 196C1600 163 1760 180 1920 196C2080 212 2240 229 2400 220.5C2560 212 2720 180 2880 138.8C3040 98 3200 49 3360 73.5C3520 98 3680 196 3840 228.7C4000 261 4160 229 4320 187.8C4480 147 4640 98 4800 89.8C4960 82 5120 114 5280 163.3C5440 212 5600 278 5760 326.7C5920 376 6080 408 6240 400.2C6400 392 6560 343 6720 326.7C6880 310 7040 327 7200 334.8C7360 343 7520 343 7680 334.8C7840 327 8000 310 8160 310.3C8320 310 8480 327 8640 351.2C8800 376 8960 408 9120 383.8C9280 359 9440 278 9600 220.5C9760 163 9920 131 10080 163.3C10240 196 10400 294 10560 310.3C10720 327 10880 261 11040 212.3C11200 163 11360 131 11440 114.3L11520 98L11520 490L11440 490C11360 490 11200 490 11040 490C10880 490 10720 490 10560 490C10400 490 10240 490 10080 490C9920 490 9760 490 9600 490C9440 490 9280 490 9120 490C8960 490 8800 490 8640 490C8480 490 8320 490 8160 490C8000 490 7840 490 7680 490C7520 490 7360 490 7200 490C7040 490 6880 490 6720 490C6560 490 6400 490 6240 490C6080 490 5920 490 5760 490C5600 490 5440 490 5280 490C5120 490 4960 490 4800 490C4640 490 4480 490 4320 490C4160 490 4000 490 3840 490C3680 490 3520 490 3360 490C3200 490 3040 490 2880 490C2720 490 2560 490 2400 490C2240 490 2080 490 1920 490C1760 490 1600 490 1440 490C1280 490 1120 490 960 490C800 490 640 490 480 490C320 490 160 490 80 490L0 490Z'/%3E%3C/svg%3E");
+	}
+
+	.jumbotron jumbotron-fluid{
+		background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' standalone='no'%3F%3E%3Csvg xmlns:xlink='http://www.w3.org/1999/xlink' id='wave' style='transform:rotate(0deg)%3B transition: 0.3s' viewBox='0 0 1440 490' version='1.1' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='sw-gradient-0' x1='0' x2='0' y1='1' y2='0'%3E%3Cstop stop-color='rgba(10.773  130.232  24.601  1)' offset='0%25'/%3E%3Cstop stop-color='rgba(7.133  11.655  223.58  1)' offset='100%25'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath style='transform:translate(0  0px)%3B opacity:1' fill='url(%23sw-gradient-0)' d='M0 245L80 220.5C160 196 320 147 480 171.5C640 196 800 294 960 310.3C1120 327 1280 261 1440 220.5C1600 180 1760 163 1920 204.2C2080 245 2240 343 2400 375.7C2560 408 2720 376 2880 359.3C3040 343 3200 343 3360 285.8C3520 229 3680 114 3840 65.3C4000 16 4160 33 4320 106.2C4480 180 4640 310 4800 318.5C4960 327 5120 212 5280 179.7C5440 147 5600 196 5760 236.8C5920 278 6080 310 6240 294C6400 278 6560 212 6720 196C6880 180 7040 212 7200 212.3C7360 212 7520 180 7680 212.3C7840 245 8000 343 8160 343C8320 343 8480 245 8640 187.8C8800 131 8960 114 9120 89.8C9280 65 9440 33 9600 32.7C9760 33 9920 65 10080 65.3C10240 65 10400 33 10560 32.7C10720 33 10880 65 11040 106.2C11200 147 11360 196 11440 220.5L11520 245L11520 490L11440 490C11360 490 11200 490 11040 490C10880 490 10720 490 10560 490C10400 490 10240 490 10080 490C9920 490 9760 490 9600 490C9440 490 9280 490 9120 490C8960 490 8800 490 8640 490C8480 490 8320 490 8160 490C8000 490 7840 490 7680 490C7520 490 7360 490 7200 490C7040 490 6880 490 6720 490C6560 490 6400 490 6240 490C6080 490 5920 490 5760 490C5600 490 5440 490 5280 490C5120 490 4960 490 4800 490C4640 490 4480 490 4320 490C4160 490 4000 490 3840 490C3680 490 3520 490 3360 490C3200 490 3040 490 2880 490C2720 490 2560 490 2400 490C2240 490 2080 490 1920 490C1760 490 1600 490 1440 490C1280 490 1120 490 960 490C800 490 640 490 480 490C320 490 160 490 80 490L0 490Z'/%3E%3Cdefs%3E%3ClinearGradient id='sw-gradient-1' x1='0' x2='0' y1='1' y2='0'%3E%3Cstop stop-color='rgba(47.047  221.304  203.002  1)' offset='0%25'/%3E%3Cstop stop-color='rgba(255  179  11  1)' offset='100%25'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath style='transform:translate(0  50px)%3B opacity:0.9' fill='url(%23sw-gradient-1)' d='M0 392L80 367.5C160 343 320 294 480 294C640 294 800 343 960 326.7C1120 310 1280 229 1440 196C1600 163 1760 180 1920 196C2080 212 2240 229 2400 220.5C2560 212 2720 180 2880 138.8C3040 98 3200 49 3360 73.5C3520 98 3680 196 3840 228.7C4000 261 4160 229 4320 187.8C4480 147 4640 98 4800 89.8C4960 82 5120 114 5280 163.3C5440 212 5600 278 5760 326.7C5920 376 6080 408 6240 400.2C6400 392 6560 343 6720 326.7C6880 310 7040 327 7200 334.8C7360 343 7520 343 7680 334.8C7840 327 8000 310 8160 310.3C8320 310 8480 327 8640 351.2C8800 376 8960 408 9120 383.8C9280 359 9440 278 9600 220.5C9760 163 9920 131 10080 163.3C10240 196 10400 294 10560 310.3C10720 327 10880 261 11040 212.3C11200 163 11360 131 11440 114.3L11520 98L11520 490L11440 490C11360 490 11200 490 11040 490C10880 490 10720 490 10560 490C10400 490 10240 490 10080 490C9920 490 9760 490 9600 490C9440 490 9280 490 9120 490C8960 490 8800 490 8640 490C8480 490 8320 490 8160 490C8000 490 7840 490 7680 490C7520 490 7360 490 7200 490C7040 490 6880 490 6720 490C6560 490 6400 490 6240 490C6080 490 5920 490 5760 490C5600 490 5440 490 5280 490C5120 490 4960 490 4800 490C4640 490 4480 490 4320 490C4160 490 4000 490 3840 490C3680 490 3520 490 3360 490C3200 490 3040 490 2880 490C2720 490 2560 490 2400 490C2240 490 2080 490 1920 490C1760 490 1600 490 1440 490C1280 490 1120 490 960 490C800 490 640 490 480 490C320 490 160 490 80 490L0 490Z'/%3E%3C/svg%3E");
+	}
+	</style>
+	
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Viga" rel="stylesheet">
+
+    <title>Zhafran "Ganteng" Ramadhan</title>
+  </head>
+  <body>
+
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <div class="container">
+        <a class="navbar-brand" href="#">AAAAAHHHH!!!</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav ml-auto">
+            <a class="nav-item nav-link active" href="#">Tolong <span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link" href="#">Saya</a>
+            <a class="nav-item nav-link" href="#">Kena</a>
+            <a class="nav-item nav-link" href="#">Mental</a>
+            <a class="nav-item nav-link btn btn-primary text-white tombol" href="#">Klik Disini Untuk Kena Mental</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!-- akhir Navbar -->
+
+    <!-- Jumbotron -->
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h1 class="display-4">Kena Mental <span>Bersama Saya</span> <br>Dan <span>Mari Membadut </span> Bersama Saya</h1>
+        <a href="DevicesController/index" class="btn btn-info btn-lg tombol">IoT Table</a>
+      </div>
+    </div>
+    <!-- akhir Jumbotron -->
+
+
+    <!-- container -->
+    <div class="container">
+			
+      <!-- Testimonial -->
+      <section class="testimonial">
+        <div class="row justify-content-center">
+          <div class="col-lg-8">
+            <p></p>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+        </div>
+        <div class="row justify-content-center info-text">
+          <div class="col-lg text-center">
+            <h5>Affan</h5>
+            <p>Progamer</p>
+          </div>
+        </div>
+      </section>
+      <!-- akhir Testimonial -->
+
+
+    </div>
+    <!-- akhir container -->
+  </body>
+</html>
